@@ -22,10 +22,3 @@ index=win_logs EventCode=4625
 | stats count by TargetUserName, src_ip
 | where count > 10
 | sort - count
-index=sysmon EventCode=1 (Image="*cmd.exe" OR Image="*powershell.exe")
-| table _time, host, User, Image, CommandLine
-| sort - _time
-index=web_access status=404
-| stats count by clientip, uri_path
-| where count > 50
-| top limit=10 clientip
