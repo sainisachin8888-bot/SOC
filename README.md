@@ -1,59 +1,55 @@
 # SOC
 SOC-WORK
-# Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hi there, I'm Sachin 👋
 
+![TryHackMe Profile](https://tryhackme-badges.s3.amazonaws.com/WLAKVUJHDL.png)
 
+## 🛡️ Cybersecurity & SOC Labs
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I document my hands-on experience in Security Operations Center (SOC) analysis, network monitoring, and threat detection.
 
-## Objective
+### 🏆 Featured Repository
+- 📁 **[SOC Analysis & Writeups](https://github.com/sainisachin8888-bot/SOC)** — Hands-on labs covering log analysis, SIEM, traffic analysis, and TryHackMe rooms.
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+### 📜 Verified Credentials
+- **TryHackMe Certificate:** [View Official Certificate](https://tryhackme.com/certificate/THM-WLAKVUJHDL)
 
-## Skills
+---
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+## ⚡ Skills & Tools
 
-## Tools
+- **Security Operations:** SIEM (Splunk, Elastic), Log Analysis, Incident Response
+- **Network Analysis:** Wireshark, Tshark, Packet Analysis
+- **Recon & Enumeration:** Nmap, Gobuster, Burp Suite
+- **Scripting & OS:** Linux (Kali/Ubuntu), Windows Event Logs, Bash, Python
+# SOC & Incident Response Labs
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+This repository contains writeups, analysis reports, and methodology notes for Security Operations Center (SOC) labs and TryHackMe rooms.
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+## 📜 Verified Certificates
+- **TryHackMe Certification:** [THM-WLAKVUJHDL](https://tryhackme.com/certificate/THM-WLAKVUJHDL)
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+---
 
-## Certifications
+## 🛠️ Completed Labs & Writeups
 
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+| Category | Lab / Room | Target / Topic | Notes & Writeups |
+| :--- | :--- | :--- | :---: |
+| **SOC Operations** | Cyber Defense | Incident Response | [View Writeup](./SOC-Operations/Cyber-Defense.md) |
+| **Log Analysis** | Splunk Basics | SIEM Querying | [View Writeup](./Log-Analysis/Splunk-Basics.md) |
+| **Network Traffic** | Wireshark Analysis | Packet Capture Analysis | [View Writeup](./Network-Traffic/Wireshark.md) |
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+---
+
+## 📝 Lab Writeup Template
+
+When adding a new lab report to this repo, use the format below:
+
+### Report Format
+1. **Objective:** Summary of the incident/room goals.
+2. **Tools Used:** Splunk, Wireshark, Brim, etc.
+3. **Investigation Steps:** Screenshots and queries executed.
+4. **Key Findings:** Identified IOCs (IPs, hashes, domain names).
+5. **Remediation & Lessons Learned:** Actionable steps to mitigate the threat.
+---
+*🔗 View my public profile on [TryHackMe](https://tryhackme.com/p/WLAKVUJHDL)*
